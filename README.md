@@ -1,2 +1,2 @@
 # TEST
-This is teat project
+This is test project
